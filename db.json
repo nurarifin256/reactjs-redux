@@ -3,57 +3,68 @@
     {
       "id": 1,
       "nama": "nura",
-      "alamat": "tenjo"
+      "alamat": "tenjo",
+      "no_hp": "021"
     },
     {
       "id": 2,
       "nama": "arif",
-      "alamat": "setu"
+      "alamat": "setu",
+      "no_hp": "022"
     },
     {
       "id": 3,
       "nama": "arifin",
-      "alamat": "singabangsa"
+      "alamat": "singabangsa",
+      "no_hp": "023"
     },
     {
       "id": 4,
       "nama": "boki",
-      "alamat": "singabangsa"
+      "alamat": "singabangsa",
+      "no_hp": "024"
     },
     {
       "id": 5,
       "nama": "biki",
-      "alamat": "singabangsa"
+      "alamat": "singabangsa",
+      "no_hp": "025"
     },
     {
       "id": 6,
       "nama": "cupi",
-      "alamat": "singabangsa"
+      "alamat": "singabangsa",
+      "no_hp": "026"
     },
     {
       "id": 7,
       "nama": "caa",
-      "alamat": "singabangsa"
+      "alamat": "singabangsa",
+      "no_hp": "027"
     },
     {
       "id": 8,
       "nama": "cuu",
-      "alamat": "singabangsa"
+      "alamat": "singabangsa",
+      "no_hp": "028"
     },
     {
       "id": 9,
       "nama": "hisshhh",
-      "alamat": "singabangsa"
+      "alamat": "singabangsa",
+      "no_hp": "028"
     },
     {
       "id": 10,
       "nama": "api - api",
-      "alamat": "singabangsa"
+      "alamat": "singabangsa",
+      "no_hp": "029"
     },
     {
       "id": 11,
       "nama": "ipin",
-      "alamat": "singabangsa"
+      "alamat": "singabangsa",
+      "no_hp": "0211"
     }
   ]
     
