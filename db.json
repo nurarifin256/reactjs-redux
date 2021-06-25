@@ -1,0 +1,60 @@
+{
+    "users" : [
+    {
+      "id": 1,
+      "nama": "nura",
+      "alamat": "tenjo"
+    },
+    {
+      "id": 2,
+      "nama": "arif",
+      "alamat": "setu"
+    },
+    {
+      "id": 3,
+      "nama": "arifin",
+      "alamat": "singabangsa"
+    },
+    {
+      "id": 4,
+      "nama": "boki",
+      "alamat": "singabangsa"
+    },
+    {
+      "id": 5,
+      "nama": "biki",
+      "alamat": "singabangsa"
+    },
+    {
+      "id": 6,
+      "nama": "cupi",
+      "alamat": "singabangsa"
+    },
+    {
+      "id": 7,
+      "nama": "caa",
+      "alamat": "singabangsa"
+    },
+    {
+      "id": 8,
+      "nama": "cuu",
+      "alamat": "singabangsa"
+    },
+    {
+      "id": 9,
+      "nama": "hisshhh",
+      "alamat": "singabangsa"
+    },
+    {
+      "id": 10,
+      "nama": "api - api",
+      "alamat": "singabangsa"
+    },
+    {
+      "id": 11,
+      "nama": "ipin",
+      "alamat": "singabangsa"
+    }
+  ]
+    
+}
